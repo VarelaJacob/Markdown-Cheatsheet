@@ -32,13 +32,15 @@ _Emphasized text_
 
     Markup :  ~~Strikethrough text~~
 
-__Strong text__
+__Bold text__
 
     Markup :  __Strong text__ or **Strong text**
 
-___Strong emphasized text___
+___Bold emphasized text___
 
     Markup :  ___Strong emphasized text___ or ***Strong emphasized text***
+
+
 
 [Named Link](http://www.google.com/ "Named link title") and http://www.google.com/ or <http://example.com/>
 
