@@ -2,7 +2,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
- <img src="images/Markdown-Logo.png" alt="Markdown Logo" width="80" height="80">
+ <img src="images/Markdown-Logo.png" alt="Markdown Logo" width="130" height="80">
 
 
   <h3 align="center">Markdown Cheatsheet</h3>
