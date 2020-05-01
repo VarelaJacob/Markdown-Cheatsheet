@@ -1,5 +1,19 @@
-Markdown Cheatsheet
-===================
+
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+ <img src="images/Markdown-Logo.png" alt="Markdown Logo" width="80" height="80">
+
+
+  <h3 align="center">Markdown Cheatsheet</h3>
+
+  <p align="center">
+    This cheatsheet combines Markdown text formatting from a variety of sources for quick and easy reference.
+    <br />
+    <br />
+  </p>
+</p>
+
 
 - - - - 
 
