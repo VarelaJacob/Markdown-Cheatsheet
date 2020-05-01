@@ -8,7 +8,7 @@
   <h3 align="center">Markdown Cheatsheet</h3>
 
   <p align="center">
-    This cheatsheet combines Markdown text formatting from a variety of sources for quick and easy reference.
+    This cheatsheet combines Markdown text formatting from a variety of sources for quick and easy reference. Original author unknown
     <br />
     <br />
   </p>
